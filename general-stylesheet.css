@@ -1,0 +1,39 @@
+			table{
+				width:100%;
+				background-color:#F0F0F0;
+			}
+			#mainContent{
+				width:60%;
+				margin-left:auto;
+				margin-right:auto;
+			}
+			#mainContent .mainTable{
+				box-shadow: 10px 0px 50px -4px grey, -10px 0px 50px -4px grey;
+			}
+			#headerDescription{
+				text-align:right;
+				font-style:Italic;
+				font-size: 20px;
+				color:#9966FF;
+			}
+			.menu td{
+				border: 1px solid white;
+				border-radius:5px;
+				height:20px;
+				background-color: #9966FF;
+				text-transform: uppercase;
+				text-align:center;
+				font-size:13px;
+				font-weight:bold;
+				color:white;
+			}
+			#footerContent{
+				width:80%;
+				margin-left:auto;
+				margin-right:auto;
+				border-top:1px solid black;
+			}
+			#footerContent .references td{
+				border-right: 1px solid purple;
+				text-align:center;
+			}
